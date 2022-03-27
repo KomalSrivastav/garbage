@@ -1,0 +1,31 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+.tlp-portfolio button {
+    background:#477ca8;
+    text-transform: capitalize;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 5px;
+    border: none;
+    width:248px;
+   cursor:pointer;
+}
+
+.tlp-portfolio button {
+  background:#477ca8;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
